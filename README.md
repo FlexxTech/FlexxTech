@@ -89,14 +89,14 @@ Contribuir para projetos desafiadores, impactando positivamente pessoas e negóc
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FlexxTech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=FlexxTech&show_icons=true&theme=shadow_red&include_all_commits=true&text_color=FFFF&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlexxTech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlexxTech&theme=shadow_red&layout=compact&custom_title=Tecnologias&text_color=FFFFF&langs_count=9" 
   />
 
 </p>
