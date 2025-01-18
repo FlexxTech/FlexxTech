@@ -12,6 +12,7 @@ Frameworks e Ferramentas: Fastify, Prisma
 Bancos de Dados: PostgreSQL (Neon.Tech)
 Metodologias: API Rest, Testes Automatizados
 Outras Tecnologias: Git
+
 🌱 Aprendizado Atual
 Explorando o uso avançado de Node.js e Python no desenvolvimento de APIs e microsserviços.
 🎯 Objetivos
