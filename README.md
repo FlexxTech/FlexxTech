@@ -2,22 +2,27 @@
 
 **`Desenvolvedor Back-end`** **`Desenvolvedor Front-end`**
 
-Eu chamo Kaique Fernando Vieira , tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando Ciência da Computação , onde aprofundo meu conhecimento em algoritmos, estruturas de dados, e fundamentos de engenharia de software.
+Kaique Fernando Vieira
+Idade: 23 anos
+Cursando: Ciência da Computação
 
-Focado no desenvolvimento Back-end , meu objetivo é criar aplicações robustas, escaláveis ​​e eficientes. Estou sempre em busca de aprimoramento de habilidades, explorando ferramentas modernas e boas práticas da indústria.
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando Ciência da Computação, onde aprofundo meus conhecimentos em algoritmos, estruturas de dados e fundamentos de engenharia de software.
 
-🛠️ Habilidades
-Linguagens: JavaScript (Node.js), TypeScript, Python
-Frameworks e Ferramentas: Fastify, Prisma
-Bancos de Dados: PostgreSQL (Neon.Tech)
-Metodologias: API Rest, Testes Automatizados
-Outras Tecnologias: Git
+Focado no desenvolvimento Back-end, meu objetivo é criar aplicações robustas, escaláveis e eficientes. Além disso, estou ampliando meu conhecimento para o desenvolvimento Front-end, especialmente com React, buscando entregar soluções completas e integradas. Estou sempre em busca de aprimoramento contínuo, explorando ferramentas modernas e boas práticas da indústria.
 
-🌱 Aprendizado Atual
-Explorando o uso avançado de Node.js e Python no desenvolvimento de APIs e microsserviços.
-🎯 Objetivos
-Torne-me um especialista em desenvolvimento Back-end, com foco em sistemas escaláveis ​​e de alto desempenho.
-Contribuir para projetos desafiadores, impactando positivamente pessoas e negócios.
+🛠️ Habilidades:
+
+    Linguagens: JavaScript (Node.js), TypeScript, Python
+    Frameworks e Ferramentas: Fastify, Prisma, React
+    Bancos de Dados: PostgreSQL (Neon.Tech)
+    Metodologias: API REST, Testes Automatizados
+    Outras Tecnologias: Git
+
+🌱 Aprendizado Atual:
+Explorando o uso avançado de Node.js, Python e React no desenvolvimento de APIs e microsserviços.
+
+🎯 Objetivos:
+Tornar-me um especialista em desenvolvimento Back-end, com foco em sistemas escaláveis e de alto desempenho. Contribuir para projetos desafiadores, impactando positivamente pessoas e negócios.
 
    <p align="left">
       <a href="https://github.com/FlexxTech?tab=followers">
