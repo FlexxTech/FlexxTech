@@ -1,6 +1,6 @@
 # 👨‍💻 Kaique Vieira
 
-**`Desenvolvedor Back-end`**`Desenvolvedor Front-end`**
+**`Desenvolvedor Back-end`** **`Desenvolvedor Front-end`**
 
 Eu chamo Kaique Fernando Vieira , tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando Ciência da Computação , onde aprofundo meu conhecimento em algoritmos, estruturas de dados, e fundamentos de engenharia de software.
 
