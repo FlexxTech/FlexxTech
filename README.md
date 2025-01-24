@@ -11,7 +11,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 Focado no desenvolvimento Back-end, meu objetivo é criar aplicações robustas, escaláveis e eficientes. Além disso, estou ampliando meu conhecimento para o desenvolvimento Front-end, especialmente com React, buscando entregar soluções completas e integradas. Estou sempre em busca de aprimoramento contínuo, explorando ferramentas modernas e boas práticas da indústria.
 
 🛠️ Habilidades:
-
     Linguagens: JavaScript (Node.js), TypeScript, Python
     Frameworks e Ferramentas: Fastify, Prisma, React
     Bancos de Dados: PostgreSQL (Neon.Tech)
