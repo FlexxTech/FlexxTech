@@ -1,27 +1,32 @@
 # 👨‍💻 Kaique Vieira
 
-**`Desenvolvedor Back-end`** **`Desenvolvedor Front-end`**
+**`Desenvolvedor Back-end`** **`QA`**
 
 Kaique Fernando Vieira
-Idade: 23 anos
-Cursando: Ciência da Computação
+📍 23 anos | Cursando Ciência da Computação
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando Ciência da Computação, onde aprofundo meus conhecimentos em algoritmos, estruturas de dados e fundamentos de engenharia de software.
+Sou apaixonado por tecnologia e desenvolvimento de software, com foco em Back-end e Qualidade de Software (QA). Atualmente, estou cursando Ciência da Computação, aprofundando meus conhecimentos em algoritmos, estruturas de dados e engenharia de software.
 
-Focado no desenvolvimento Back-end, meu objetivo é criar aplicações robustas, escaláveis e eficientes. Além disso, estou ampliando meu conhecimento para o desenvolvimento Front-end, especialmente com React, buscando entregar soluções completas e integradas. Estou sempre em busca de aprimoramento contínuo, explorando ferramentas modernas e boas práticas da indústria.
+Minha missão é criar aplicações robustas, escaláveis e de alto desempenho, garantindo qualidade e confiabilidade por meio de testes automatizados e boas práticas de QA. Busco aprimoramento contínuo, explorando ferramentas modernas e metodologias ágeis.
+🛠️ Habilidades
 
-🛠️ Habilidades: 
-    Linguagens: JavaScript (Node.js), TypeScript, Python
-    Frameworks e Ferramentas: Fastify, Prisma, React
+    Back-end: JavaScript (Node.js), TypeScript, Python
+    Frameworks e Ferramentas: Fastify, Prisma, Cypress
     Bancos de Dados: PostgreSQL (Neon.Tech)
-    Metodologias: API REST, Testes Automatizados
-    Outras Tecnologias: Git
+    Qualidade de Software: Testes Automatizados, Cypress, Gherkin, Jira
+    Metodologias: API REST, Testes de Regressão, Scrum
+    Outras Tecnologias: Git, Docker
 
-🌱 Aprendizado Atual:
-Explorando o uso avançado de Node.js, Python e React no desenvolvimento de APIs e microsserviços.
+🌱 Aprendizado Atual
 
-🎯 Objetivos:
-Tornar-me um especialista em desenvolvimento Back-end, com foco em sistemas escaláveis e de alto desempenho. Contribuir para projetos desafiadores, impactando positivamente pessoas e negócios.
+    Desenvolvimento Back-end: APIs escaláveis e microsserviços com Node.js e Python
+    Qualidade de Software: Automação de testes com Cypress, Gherkin e boas práticas de QA
+
+🎯 Objetivos
+
+    Tornar-me um especialista em Back-end e QA, focando em sistemas escaláveis e confiáveis
+    Criar aplicações de alto desempenho com testes robustos e automação eficiente
+    Contribuir para projetos inovadores e desafiadores, garantindo qualidade e impacto positivo
 
    <p align="left">
       <a href="https://github.com/FlexxTech?tab=followers">
