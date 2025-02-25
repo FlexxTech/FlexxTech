@@ -8,8 +8,8 @@ Kaique Fernando Vieira
 Sou apaixonado por tecnologia e desenvolvimento de software, com foco em Back-end e Qualidade de Software (QA). Atualmente, estou cursando Ciência da Computação, aprofundando meus conhecimentos em algoritmos, estruturas de dados e engenharia de software.
 
 Minha missão é criar aplicações robustas, escaláveis e de alto desempenho, garantindo qualidade e confiabilidade por meio de testes automatizados e boas práticas de QA. Busco aprimoramento contínuo, explorando ferramentas modernas e metodologias ágeis.
-🛠️ Habilidades
 
+🛠️ Habilidades
     Back-end: JavaScript (Node.js), TypeScript, Python
     Frameworks e Ferramentas: Fastify, Prisma, Cypress
     Bancos de Dados: PostgreSQL (Neon.Tech)
@@ -18,12 +18,10 @@ Minha missão é criar aplicações robustas, escaláveis e de alto desempenho, 
     Outras Tecnologias: Git, Docker
 
 🌱 Aprendizado Atual
-
     Desenvolvimento Back-end: APIs escaláveis e microsserviços com Node.js e Python
     Qualidade de Software: Automação de testes com Cypress, Gherkin e boas práticas de QA
 
 🎯 Objetivos
-
     Tornar-me um especialista em Back-end e QA, focando em sistemas escaláveis e confiáveis
     Criar aplicações de alto desempenho com testes robustos e automação eficiente
     Contribuir para projetos inovadores e desafiadores, garantindo qualidade e impacto positivo
