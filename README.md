@@ -3,7 +3,7 @@
 **`Desenvolvedor Back-end`** **`QA`**
 
 Kaique Fernando Vieira
-📍 23 anos | Cursando Ciência da Computação
+📍 24 anos | Cursando Ciência da Computação
 
 Sou apaixonado por tecnologia e desenvolvimento de software, com foco em Back-end e Qualidade de Software (QA). Atualmente, estou cursando Ciência da Computação, aprofundando meus conhecimentos em algoritmos, estruturas de dados e engenharia de software.
 
