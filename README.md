@@ -48,7 +48,7 @@ Minha missão é criar aplicações robustas, escaláveis e de alto desempenho, 
 <img 
     align="Python" 
     alt="Python" 
-    title="CSS"
+    title="Python"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" 
