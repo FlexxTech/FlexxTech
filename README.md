@@ -21,35 +21,35 @@
 
 ---
 
-## Sobre
-Desenvolvedor focado em **Back-end**, com interesse em **arquitetura de APIs**, **modelagem de dados**, **performance** e **escalabilidade**.  
-Formado em **Ciência da Computação**, aprofundando conhecimentos em **algoritmos**, **estruturas de dados** e **engenharia de software**.
+## 🧠 Sobre
+Desenvolvedor focado em **Back-end Engineering**, com ênfase em **API Design**, **arquitetura de serviços**, **modelagem de dados** e **escalabilidade**.  
+Formado em **Ciência da Computação**, aprofundando fundamentos como **algoritmos**, **estruturas de dados**, **complexidade** e **engenharia de software**.
 
 ---
 
-## Competências técnicas (Back-end)
-- **API Design:** RESTful APIs, versionamento, paginação, validação, boas práticas e contratos
-- **Arquitetura:** modularização, separation of concerns, camadas (controller/service/repository), princípios SOLID
-- **Dados:** PostgreSQL, modelagem relacional, índices, constraints, transações e consistência
-- **Integrações:** webhooks, autenticação (JWT), consumo de serviços e integrações entre sistemas
-- **Dev / Infra:** Docker, Git, ambientes, configuração e deploy orientado a containers
-- **Documentação:** OpenAPI/Swagger (quando aplicável), README técnico e guidelines do projeto
+## 🧩 Especialidades (Back-end)
+- **APIs REST:** contratos, versionamento, paginação, validação, padrões de resposta e tratamento de erros
+- **Arquitetura:** camadas (Controller/Service/Repository), modularização, SOLID, separação de responsabilidades
+- **Persistência:** PostgreSQL, modelagem relacional, índices, constraints, transações e consistência
+- **Integrações:** consumo de APIs, webhooks, autenticação e autorização (**JWT**)
+- **Observabilidade:** logs estruturados, métricas e rastreabilidade (quando aplicável)
+- **Infra/Dev:** Git, Docker, ambientes e deploy baseado em containers
 
 ---
 
-## Stack principal
+## 🛠️ Stack
 - **Node.js / TypeScript:** Fastify, Prisma
-- **Java:** Spring Boot (APIs REST, validação, organização em camadas)
-- **Python:** serviços, rotinas e automações
+- **Java:** Spring Boot
+- **Python:** automações e serviços
 - **Database:** PostgreSQL (Neon)
 
 ---
 
-## Projetos em destaque
-> Substitua pelos repositórios que você quer “vender” no perfil.
+## 📌 Featured Projects
+> Substitua pelos repositórios que você quer destacar
 
-- **🔹 API REST (Node.js + Fastify + Prisma + Postgres)** — autenticação, CRUD, validações e padrões de arquitetura
-- **🔹 API Java (Spring Boot)** — controllers/services/repositories, validação, integração com banco e organização de domínio
+- **🔹 API REST (Node.js + Fastify + Prisma + Postgres)** — auth, CRUD, validações, arquitetura modular
+- **🔹 API Java (Spring Boot)** — controllers/services/repositories, validação, integração com banco
 - **🔹 Integrações / Webhooks** — serviços orientados a evento e integrações com APIs externas
 
 ---
@@ -57,23 +57,27 @@ Formado em **Ciência da Computação**, aprofundando conhecimentos em **algorit
 ## 📊 GitHub Stats
 <div align="center">
 
-<img
-  height="155"
-  alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=FlexxTech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=7200"
-/>
+<a href="https://github.com/FlexxTech">
+  <img
+    height="155"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=FlexxTech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400"
+  />
+</a>
 
-<img
-  height="155"
-  alt="Top Langs"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlexxTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=7200"
-/>
+<a href="https://github.com/FlexxTech?tab=repositories">
+  <img
+    height="155"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlexxTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400"
+  />
+</a>
 
 </div>
 
 ---
 
-## Contato
+## 🤝 Contato
 - GitHub: *https://github.com/FlexxTech*
 - LinkedIn: *(adicione seu link aqui)](https://www.linkedin.com/in/kaique-fernando-vieira-4119a73a3/)*
 - E-mail: *contato.flexxtech@gmail.com*
