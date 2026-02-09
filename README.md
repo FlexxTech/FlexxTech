@@ -91,7 +91,8 @@ Minha missão é criar aplicações robustas, escaláveis e de alto desempenho, 
     title="JAVA" 
     width="40px" 
     style="padding-right: 10px;"      
-    src="https://www.flaticon.com/br/icone-gratis/java_5968282?term=java&page=1&position=2&origin=search&related_id=5968282" 
+    src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6463cf29-ea3a-4c75-8305-3e4b87500a6b" />
+" 
 />
 <br/>
 <br/>
