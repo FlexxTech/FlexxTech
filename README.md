@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Kaique Vieira  
-**Back-end Developer** • **QA** • Node.js/TypeScript • **Java/Spring Boot** • Python
+**Back-end Developer** • Node.js/TypeScript • **Java/Spring Boot** • Python
 
 <a href="https://github.com/FlexxTech?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FlexxTech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -12,9 +12,8 @@
 
 <br/><br/>
 
-<!-- “Faixa” de ícones (rápida e bonita) -->
 <img
-  src="https://skillicons.dev/icons?i=nodejs,ts,js,py,java,spring,postgres,prisma,docker,git,cypress"
+  src="https://skillicons.dev/icons?i=nodejs,ts,js,py,java,spring,postgres,prisma,docker,git"
   alt="Tech Stack Icons"
 />
 
@@ -23,38 +22,38 @@
 ---
 
 ## 🚀 Sobre mim
-Sou desenvolvedor com foco em **Back-end** e **Qualidade de Software (QA)**, apaixonado por construir **APIs robustas, escaláveis e de alto desempenho**.  
-Curto trabalhar com **boas práticas**, **testes automatizados** e **arquitetura limpa**, buscando sempre confiabilidade e previsibilidade nas entregas.
+Sou desenvolvedor com foco em **Back-end**, apaixonado por criar **APIs robustas, escaláveis e de alto desempenho**.  
+Atualmente curso **Ciência da Computação**, aprofundando conhecimentos em **algoritmos, estruturas de dados** e **engenharia de software**.
+
+Gosto de trabalhar com **arquitetura limpa**, **boas práticas**, **observabilidade** e **performance**, construindo serviços confiáveis e fáceis de evoluir.
 
 ---
 
 ## 🛠️ Stack & Ferramentas
 
 ### Back-end
-- **Node.js** (Fastify) • **TypeScript** • **Python**
+- **Node.js** (Fastify) • **TypeScript** • **JavaScript**
 - **Java + Spring Boot** (APIs REST, validação, camadas, boas práticas)
-- **ORM:** Prisma  
-- **Banco de Dados:** PostgreSQL (Neon)
+- **Python** (serviços, scripts e automações)
 
-### Qualidade / QA
-- **Testes automatizados** (E2E / Regressão) com **Cypress**
-- **BDD:** Gherkin  
-- **Gestão:** Jira
+### Banco de Dados
+- **PostgreSQL** (Neon)
+- **ORM:** Prisma
 
 ### Dev / Infra
-- Git • Docker
+- **Docker** • **Git**
 
 ---
 
 ## 🌱 Aprendizado atual
-- **Back-end:** APIs escaláveis, integrações, microsserviços e boas práticas
-- **QA:** automação com Cypress, cenários BDD (Gherkin) e pipelines de testes
+- **Back-end:** APIs escaláveis, arquitetura (camadas/DDD), microsserviços e integrações
+- **Java/Spring Boot:** estruturação de projetos, boas práticas e padrões do ecossistema
 
 ---
 
 ## 🎯 Objetivos
-- Evoluir como especialista em **Back-end + QA**
-- Criar sistemas **confiáveis**, com **testes robustos** e automação eficiente
+- Tornar-me especialista em **Back-end**
+- Construir aplicações **performáticas**, **escaláveis** e bem arquitetadas
 - Contribuir em projetos desafiadores com impacto real
 
 ---
@@ -63,11 +62,11 @@ Curto trabalhar com **boas práticas**, **testes automatizados** e **arquitetura
 > (Troque pelos seus repositórios principais)
 
 - **🔹 Projeto 1** — API REST com Node.js + Fastify + Prisma + Postgres  
-  _Breve descrição do que resolve e o diferencial técnico._
-- **🔹 Projeto 2** — Automação de testes com Cypress + BDD (Gherkin)  
-  _Breve descrição e foco em qualidade._
-- **🔹 Projeto 3** — API Java com Spring Boot  
-  _Endpoints, validação, camadas, testes, etc._
+  _O que resolve + diferencial técnico (auth, cache, filas, etc.)._
+- **🔹 Projeto 2** — Serviço Java com Spring Boot  
+  _Estrutura em camadas, validações, segurança e integração com banco._
+- **🔹 Projeto 3** — Integração/Microsserviço  
+  _Mensageria, webhooks, jobs, etc._
 
 ---
 
