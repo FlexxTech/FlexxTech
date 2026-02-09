@@ -52,28 +52,6 @@ Formado em **Ciência da Computação**, aprofundando fundamentos como **algorit
 - **🔹 API Java (Spring Boot)** — controllers/services/repositories, validação, integração com banco
 - **🔹 Integrações / Webhooks** — serviços orientados a evento e integrações com APIs externas
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-<a href="https://github.com/FlexxTech">
-  <img
-    height="155"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=FlexxTech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400"
-  />
-</a>
-
-<a href="https://github.com/FlexxTech?tab=repositories">
-  <img
-    height="155"
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlexxTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400"
-  />
-</a>
-
-</div>
 
 ---
 
