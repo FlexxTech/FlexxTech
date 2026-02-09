@@ -57,5 +57,5 @@ Formado em **Ciência da Computação**, aprofundando fundamentos como **algorit
 
 ## 🤝 Contato
 - GitHub: *https://github.com/FlexxTech*
-- LinkedIn: *(adicione seu link aqui)](https://www.linkedin.com/in/kaique-fernando-vieira-4119a73a3/)*
+- LinkedIn: *(https://www.linkedin.com/in/kaique-fernando-vieira-4119a73a3/*
 - E-mail: *contato.flexxtech@gmail.com*
