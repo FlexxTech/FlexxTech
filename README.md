@@ -1,95 +1,79 @@
 <div align="center">
 
-# 👨‍💻 Kaique Vieira  
-**Back-end Developer** • Node.js/TypeScript • **Java/Spring Boot** • Python
+# 👨‍💻 Kaique Vieira
+**Back-end Developer** • **Node.js/TypeScript** • **Java + Spring Boot** • **Python**
 
 <a href="https://github.com/FlexxTech?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FlexxTech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/FlexxTech?style=for-the-badge&label=Follow" />
 </a>
 <a href="https://github.com/FlexxTech?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FlexxTech?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/FlexxTech?style=for-the-badge&label=Stars" />
 </a>
 
 <br/><br/>
 
 <img
   src="https://skillicons.dev/icons?i=nodejs,ts,js,py,java,spring,postgres,prisma,docker,git"
-  alt="Tech Stack Icons"
+  alt="Tech Stack"
 />
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
-Sou desenvolvedor com foco em **Back-end**, apaixonado por criar **APIs robustas, escaláveis e de alto desempenho**.  
-Atualmente curso **Ciência da Computação**, aprofundando conhecimentos em **algoritmos, estruturas de dados** e **engenharia de software**.
-
-Gosto de trabalhar com **arquitetura limpa**, **boas práticas**, **observabilidade** e **performance**, construindo serviços confiáveis e fáceis de evoluir.
+## Sobre
+Desenvolvedor focado em **Back-end**, com interesse em **arquitetura de APIs**, **modelagem de dados**, **performance** e **escalabilidade**.  
+Formado em **Ciência da Computação**, aprofundando conhecimentos em **algoritmos**, **estruturas de dados** e **engenharia de software**.
 
 ---
 
-## 🛠️ Stack & Ferramentas
-
-### Back-end
-- **Node.js** (Fastify) • **TypeScript** • **JavaScript**
-- **Java + Spring Boot** (APIs REST, validação, camadas, boas práticas)
-- **Python** (serviços, scripts e automações)
-
-### Banco de Dados
-- **PostgreSQL** (Neon)
-- **ORM:** Prisma
-
-### Dev / Infra
-- **Docker** • **Git**
+## Competências técnicas (Back-end)
+- **API Design:** RESTful APIs, versionamento, paginação, validação, boas práticas e contratos
+- **Arquitetura:** modularização, separation of concerns, camadas (controller/service/repository), princípios SOLID
+- **Dados:** PostgreSQL, modelagem relacional, índices, constraints, transações e consistência
+- **Integrações:** webhooks, autenticação (JWT), consumo de serviços e integrações entre sistemas
+- **Dev / Infra:** Docker, Git, ambientes, configuração e deploy orientado a containers
+- **Documentação:** OpenAPI/Swagger (quando aplicável), README técnico e guidelines do projeto
 
 ---
 
-## 🌱 Aprendizado atual
-- **Back-end:** APIs escaláveis, arquitetura (camadas/DDD), microsserviços e integrações
-- **Java/Spring Boot:** estruturação de projetos, boas práticas e padrões do ecossistema
+## Stack principal
+- **Node.js / TypeScript:** Fastify, Prisma
+- **Java:** Spring Boot (APIs REST, validação, organização em camadas)
+- **Python:** serviços, rotinas e automações
+- **Database:** PostgreSQL (Neon)
 
 ---
 
-## 🎯 Objetivos
-- Tornar-me especialista em **Back-end**
-- Construir aplicações **performáticas**, **escaláveis** e bem arquitetadas
-- Contribuir em projetos desafiadores com impacto real
+## Projetos em destaque
+> Substitua pelos repositórios que você quer “vender” no perfil.
+
+- **🔹 API REST (Node.js + Fastify + Prisma + Postgres)** — autenticação, CRUD, validações e padrões de arquitetura
+- **🔹 API Java (Spring Boot)** — controllers/services/repositories, validação, integração com banco e organização de domínio
+- **🔹 Integrações / Webhooks** — serviços orientados a evento e integrações com APIs externas
 
 ---
 
-## 📌 Projetos em destaque
-> (Troque pelos seus repositórios principais)
-
-- **🔹 Projeto 1** — API REST com Node.js + Fastify + Prisma + Postgres  
-  _O que resolve + diferencial técnico (auth, cache, filas, etc.)._
-- **🔹 Projeto 2** — Serviço Java com Spring Boot  
-  _Estrutura em camadas, validações, segurança e integração com banco._
-- **🔹 Projeto 3** — Integração/Microsserviço  
-  _Mensageria, webhooks, jobs, etc._
-
----
-
-## 📊 Estatísticas
+## 📊 GitHub Stats
 <div align="center">
 
 <img
   height="155"
   alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=FlexxTech&show_icons=true&theme=shadow_red&include_all_commits=true&text_color=FFFFFF&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=FlexxTech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=7200"
 />
 
 <img
   height="155"
   alt="Top Langs"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlexxTech&theme=shadow_red&layout=compact&custom_title=Tecnologias&text_color=FFFFFF&langs_count=10"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlexxTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=7200"
 />
 
 </div>
 
 ---
 
-## 🤝 Contato
-- GitHub: https://github.com/FlexxTech  
-- LinkedIn: *(coloque seu link aqui)*  
-- E-mail: *(coloque seu e-mail aqui)*
+## Contato
+- GitHub: *https://github.com/FlexxTech*
+- LinkedIn: *(adicione seu link aqui)](https://www.linkedin.com/in/kaique-fernando-vieira-4119a73a3/)*
+- E-mail: *contato.flexxtech@gmail.com*
