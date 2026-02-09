@@ -85,6 +85,14 @@ Minha missão é criar aplicações robustas, escaláveis e de alto desempenho, 
     style="padding-right: 10px;"      
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="JAVA" 
+    title="JAVA" 
+    width="40px" 
+    style="padding-right: 10px;"      
+    src="https://www.flaticon.com/br/icone-gratis/java_5968282?term=java&page=1&position=2&origin=search&related_id=5968282" 
+/>
 <br/>
 <br/>
 
